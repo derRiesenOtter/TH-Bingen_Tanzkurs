@@ -1,5 +1,19 @@
 # Tänze Stufe 4
 
+<!--toc:start-->
+- [Tänze Stufe 4](#tänze-stufe-4)
+  - [Discofox](#discofox)
+  - [Cha Cha Cha](#cha-cha-cha)
+  - [Rumba](#rumba)
+  - [Salsa](#salsa)
+  - [Langsamer Walzer](#langsamer-walzer)
+  - [Tango](#tango)
+  - [Wiener Walzer](#wiener-walzer)
+  - [Jive](#jive)
+  - [Quickstep](#quickstep)
+  - [Bachata](#bachata)
+<!--toc:end-->
+
 
 ## Discofox
 - Grundschritt
