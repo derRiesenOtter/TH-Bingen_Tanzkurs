@@ -63,6 +63,7 @@
 - Aida
 - Doppelte Cuban Breaks
 - Hockeystick
+- 3CCC nach Hockeystick
 
 ## Rumba
 
@@ -149,6 +150,7 @@
 - Rechtskreisel
 - Lockstep
 - Um ihn herum
+- Damensolo
 
 ## Bachata 
 - Side to Side Basic 
@@ -157,3 +159,6 @@
 - Bauchstreichler 
 - Gemeinsame Travelling Turn 
 - Körbchen mit Promenadenwalk
+- Brezel
+- Brezel ins Körbchen
+- Open Close
